@@ -4,7 +4,7 @@
 bin/depricated/
 
 puppet/.ruby-version
-puppet/modules/*
+puppet/modules/
 puppet/modules-local/deprecated
 tmp/
 untracked-files/aws
